@@ -6,12 +6,12 @@ Software Engineering at Google 스터디
 
 ## 목차
 ### Thesis
-1. [What Is Software Engineering?](chapter/What Is Software Engineering?.md)
+1. [What Is Software Engineering?](chapter/01_what_is_software_engineering.md)
 ### Culture
-2. [How to Work Well on Teams](chapter/What Is Software Engineering?.md)
-3. [Knowledge Sharing](chapter/What Is Software Engineering?.md)
-4. [Engineering for Equity](chapter/What Is Software Engineering?.md)
-5. [How to Lead a Team](chapter/What Is Software Engineering?.md)
+2. [How to Work Well on Teams](chapter/02_what_is_software_engineering.md)
+3. [Knowledge Sharing](chapter/03_what_is_software_engineering.md)
+4. [Engineering for Equity](chapter/04_what_is_software_engineering.md)
+5. [How to Lead a Team](chapter/05_what_is_software_engineering.md)
 6. Leading at Scale
 7. Measuring Engineering Productivity
 ### Processes
@@ -40,3 +40,27 @@ Software Engineering at Google 스터디
 * Afterword
 
 ## 관리
+### Merge Request 방법
+1. 원본의 저장소에 Fork 하기
+2. Fork 된 저장소를 Clone, remote
+3. branch 생성하기
+4. 실제 작업하기 (코딩, 문서 등)
+5. 작업된 내역 업로드 하기 add, commit, push
+6. GitLab - New Merge Request
+7. GitLab - New Merge Request 확인하기
+8. 작업자에게 코멘트 남기고 Master 에 병합하기
+9. Master에 병합한것 취소 하기
+10. 승인자가 Master에 병합이후, fork를 원본 저장소의 내용으로 동기화 하기
+13. 업로드한 branch 삭제하기
+
+### Assignment
+| 담당자 | 1st | 2nd | 3rd | 4th | 5th |
+| ------ | --- | --- | --- | --- | --- |
+| 김경표 | 5   | 9   | 11  | 20  | 23  |
+| 조재윤 | 2   | 8   | 12  | 17  | 21  |
+| 노현빈 | 4   | 6   | 13  | 19  | 24  |
+| 박영준 | 1   | 10  | 15  | 16  | 25  |
+| 김민서 | 3   | 7   | 14  | 18  | 22  |
+
+## Reference
+* [Pull Request 방법](https://serpiko.tistory.com/853)
