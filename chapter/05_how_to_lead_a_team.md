@@ -135,13 +135,77 @@ Failure is an Option
     * leader 가 모든 것을 다 알 수 없으며, inquiry 를 통해서 leader 가 알아야 하지만 모르고 있는 부분을 채워줄 수 있다
   * 잘못했을때는 인정하고 사과해라
 
-2. Be a Zen Master
+2. Be a Zen Master (도인 되기)
   * Engineer 보다 긍정적이고 낙관적일 필요가 있다.
     * Team member 들의 사기를 위해서...
     * gear 를 생각해보라, 팀원들은 leader 에 맞물려 있는 작은 기어들이다. leader 의 작은 움직임에도 member 들은 큰 영향을 받는다.
-  * 
----
+  * 팀원이 질문을 할때
+    * 그자리에서 끝내기
+    * 정답을 알려주는 것이 아닌 정답을 찾는 방법을 알려주기
 
+3. Be a Catalyst (촉매 역할 하기)
+  ```
+  촉매: 반응과정에서 소모되지 않으면서 반응속도를 (빠르게)변화시키는 물질
+  ```
+  * 팀내 Consensus 를 형성하기
+    * drive the process from start to finish
+    * give a gentle push in the right direction to speed up
+    * 때로는 authority 없이 팀을 이끌수 있는 역할을 하기도 한다.
+
+4. Remove Roadblocks
+  * Team member 들이 겪고 있는 문제, manager가 쉽게 해결할 수 있는 문제는 빠르게 도움을 준다.
+
+5. Be a Teacher and Mentor
+  * Team member 들이 해결할 수 있고 배울 수 있는 시간을 적절히 분배하기
+    * member's time learning VS contributing to their product
+      * Team 의 성장을 고려해야 한다.
+
+6. Set Clear Goals
+  * create a concise mission statement for the team
+
+7. Be Honest
+  * compliment sandwich 이용하기
+
+8. Track Happiness
+  * avoid burn-out and exhaustion
+  * ask team member (have a one-on-one session)
+---
+## Other Thips and Tricks
+1. Delegate, but get your hands dirty
+  * 남들이 하기 싫어하는 일들을 하기
+
+2. Seek to replace yourself
+3. Know when to make waves
+  * 저절로 되는 일은 없다. 기다리지 말고 파도를 만들어야 한다.
+4. Shield your team from chaos
+5. Give your tema air cover
+  * 팀원들이 회사의 일에 대해서 잘 알수 있게 정보를 줘야한다
+  * 하지만 팀원들이 distracted 되지 않게 주의해야 한다.
+6. Let your team know when they're doing well
+  * positive feedback
+7. It's easy to say "yes" to something that's easy to undo
+  * 생각보다 취소할 수 없는 일들이 많기 때문에 신중해야 한다.
+
+---
+## People Are Like Plants
+여러 종류의 식물들이 각기 다른 양의 물/햇빛을 필요로 하는 것처럼 사람들도 다 제각각이다.
+각기 다른 정도의 Direction/Motivation 이 필요하다
+
+Intrinsic Versus Extrinsic Motivation
+* Extrinsic: 금전적 보상
+* Intrinsic: autonomy, mastery and purpose
+
+---
+## Conclusion
+* Good managers:
+  * helping team members work well
+  * keeping team members focused on proper goals
+  * inulating team members from outside problems
+  * following three pillars: humility, trust and respect
+* Don't manage, do focus on leadership, influence and serve your team
+* Delegate where possible; don't DIY
+* Pay attention to the focus, direction and veloticy of your team
+---
 
 # ?
 * Low performer 가 high performer 가 될 수 없는가?
