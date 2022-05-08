@@ -71,3 +71,10 @@ Why most of us avoid becoming managers
   * 생각보다 잘 맞을 수도 있다.
 
 Servant Leadership
+Above all, resist th urge to manage
+
+---
+## The Engineering Manager
+
+
+---
