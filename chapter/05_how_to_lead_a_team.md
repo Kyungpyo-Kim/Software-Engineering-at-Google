@@ -75,6 +75,74 @@ Above all, resist th urge to manage
 
 ---
 ## The Engineering Manager
+history of managers
+* Military leadership
+  * 산업혁명 시기의 군체계로부터 영향을 받아옴
+  * 공장을 돌리기 위한 leadership
+* Carrot-and-stick leadership 이 현대 사회까지 이어져옴
 
+Today's engineering manager
+```
+Traditional managers worry about how to get things done, whereas great managers
+worry about what things get done (and trust their team to figure out how to do it).
+```
+* 어른처럼 대하자
+  * 어떻게 하는지에 대해서는 믿고 맡기자
+
+* liberal helping of humaility, respect, and trust
+
+Failure is an Option
 
 ---
+## Antipatterns
+
+1. Hire pushovers
+  ```
+  pushover: something that is easy to do or to win, or someone who is easily persuaded or influenced or defeated
+  ```
+  positive patterns:
+    * hire who is smarter than you
+    * hire who can replace you
+
+2. Ignore Low Performers
+  ```
+  Hope is not strategy
+  ```
+  * high performers waste thier valuable time pulling the low performer along.
+  * 빠르게 대처하지 않으면 team 을 망치게 된다
+  * How do you effectively coach a low performaer
+    * Temporary micromanagement
+      * 기한과 목표를 주고 결과로 평가
+
+3. Ignore Human Issues
+  Technical Issue 만큼이나 Social Issue 도 중요하다
+
+4. Be Everyone's Friend
+
+5. Compromise the Hiring Bar
+
+6. Treat Your Team Like Children
+
+---
+
+## Positive Patterns
+
+1. Lose the Ego
+  * trust 가 필요하다, 믿고 책임을 부여하여 team member들이 책임감, ownership 을 갖을 수 있게 해주어야 한다.
+    * let others take advantage of you
+    * cultivate a strong collective team ego and identity
+  * encourage inquiry
+    * leader 가 모든 것을 다 알 수 없으며, inquiry 를 통해서 leader 가 알아야 하지만 모르고 있는 부분을 채워줄 수 있다
+  * 잘못했을때는 인정하고 사과해라
+
+2. Be a Zen Master
+  * Engineer 보다 긍정적이고 낙관적일 필요가 있다.
+    * Team member 들의 사기를 위해서...
+    * gear 를 생각해보라, 팀원들은 leader 에 맞물려 있는 작은 기어들이다. leader 의 작은 움직임에도 member 들은 큰 영향을 받는다.
+  * 
+---
+
+
+# ?
+* Low performer 가 high performer 가 될 수 없는가?
+* Team member 들이 ownership 을 원하는가?
