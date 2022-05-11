@@ -102,22 +102,22 @@
 ## Antipatterns
 
 1. Hire pushovers
-  ```
-  pushover: something that is easy to do or to win, or someone who is easily persuaded or influenced or defeated
-  ```
-  positive patterns:
-    * hire who is smarter than you
-    * hire who can replace you
+    ```
+    pushover: something that is easy to do or to win, or someone who is easily persuaded or influenced or defeated
+    ```
+    * positive patterns:
+       * hire who is smarter than you
+       * hire who can replace you
 
 2. Ignore Low Performers
-  ```
-  Hope is not strategy
-  ```
-  * high performers waste thier valuable time pulling the low performer along.
-  * 빠르게 대처하지 않으면 team 을 망치게 된다
-  * How do you effectively coach a low performaer
-    * Temporary micromanagement
-      * 기한과 목표를 주고 결과로 평가
+    ```
+    Hope is not strategy
+    ```
+    * high performers waste thier valuable time pulling the low performer along.
+    * 빠르게 대처하지 않으면 team 을 망치게 된다
+    * How do you effectively coach a low performaer
+      * Temporary micromanagement
+        * 기한과 목표를 주고 결과로 평가
 
 3. Ignore Human Issues
   Technical Issue 만큼이나 Social Issue 도 중요하다
@@ -149,13 +149,13 @@
     * 정답을 알려주는 것이 아닌 정답을 찾는 방법을 알려주기
 
 3. Be a Catalyst (촉매 역할 하기)
-  ```
-  촉매: 반응과정에서 소모되지 않으면서 반응속도를 (빠르게)변화시키는 물질
-  ```
-  * 팀내 Consensus 를 형성하기
-    * drive the process from start to finish
-    * give a gentle push in the right direction to speed up
-    * 때로는 authority 없이 팀을 이끌수 있는 역할을 하기도 한다.
+    ```
+    촉매: 반응과정에서 소모되지 않으면서 반응속도를 (빠르게)변화시키는 물질
+    ```
+    * 팀내 Consensus 를 형성하기
+      * drive the process from start to finish
+      * give a gentle push in the right direction to speed up
+      * 때로는 authority 없이 팀을 이끌수 있는 역할을 하기도 한다.
 
 4. Remove Roadblocks
   * Team member 들이 겪고 있는 문제, manager가 쉽게 해결할 수 있는 문제는 빠르게 도움을 준다.
