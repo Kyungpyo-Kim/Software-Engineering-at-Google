@@ -10,7 +10,7 @@
 ### Culture
 2. [How to Work Well on Teams](chapter/02_what_is_software_engineering.md)
 3. [Knowledge Sharing](chapter/03_what_is_software_engineering.md)
-4. [Engineering for Equity](chapter/04_what_is_software_engineering.md)
+4. [Engineering for Equity](chapter/04_engineering_for_equity.md)
 5. [How to Lead a Team](chapter/05_how_to_lead_a_team.md)
 6. Leading at Scale
 7. Measuring Engineering Productivity
