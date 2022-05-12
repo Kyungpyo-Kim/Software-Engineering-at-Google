@@ -1,8 +1,6 @@
 # How to Work Well on Teams
 
-<center><b>"소프트웨어 개발은 팀의 노력을 통해 이루어진다"
-<br/>
-
+<div align="center"><b>"소프트웨어 개발은 팀의 노력을 통해 이루어진다"</div>
 ![enter image description here](https://t1.daumcdn.net/cfile/blog/220A613856321EB325)
 
 <center><b>어떻게 하면 팀으로써 일을 잘 할 수 있을까?</b></center>
