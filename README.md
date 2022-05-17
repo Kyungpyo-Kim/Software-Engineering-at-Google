@@ -1,6 +1,6 @@
 # Software-Engineering-at-Google
 
-[Software Engineering at Google](https://abseil.io/resources/swe_at_google.2.pdf) 스터디
+[Software Engineering at Google](https://abseil.io/resources/swe-book) 스터디
 
 ## 목적
 
