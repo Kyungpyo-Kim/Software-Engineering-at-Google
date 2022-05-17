@@ -89,67 +89,80 @@
 구글에서는 창의적의고 새로운 것에 대한 빠른 적응을 위해서 관료적이고 형식적인 절차를 지양하지만, code review 에 대해서는 예외적으로 필수적인 과정으로 적용하고 있다. Code review 로 인한 속도의 지연, 많은 비용의 발생을 감수하고도 아래와 같은 장점들로 인해 code review 를 필수적으로 도입하고 있다.
 
 1. Code Correctness
-  * 지금 잘 만든 코드는 나중에 덜 고치게 된다. (오히려 속도 면에서 더 효과적...)
-  * 초기에 문제를 해결하는 것이 좋다.
-  * Correctness 는 "code patch scale" 뿐만 아니라 **"codebase scale"** 에서도 따져봐야 한다.
+
+- 지금 잘 만든 코드는 나중에 덜 고치게 된다. (오히려 속도 면에서 더 효과적...)
+- 초기에 문제를 해결하는 것이 좋다.
+- Correctness 는 "code patch scale" 뿐만 아니라 **"codebase scale"** 에서도 따져봐야 한다.
 
 2. Comprehension of Code
-  * 모두가 이해할 수 있는 코드를 만들어야 한다.
-  * 코드는 한번 쓰여지지만 여러번 읽힌다.
+
+- 모두가 이해할 수 있는 코드를 만들어야 한다.
+- 코드는 한번 쓰여지지만 여러번 읽힌다.
 
 3. Code Consistency
-  * 유지보수가 용이하게 일관성 있는 코드를 생산해야 한다.
-  * 쉽고 간결하게 작성해야 한다.
+
+- 유지보수가 용이하게 일관성 있는 코드를 생산해야 한다.
+- 쉽고 간결하게 작성해야 한다.
 
 4. Psychological and Cultural Benefits (some subtle effects...)
-  * 개발자들이 코드는 개발자의 것이 아닌 모두의 것이라는 인식을 주게 된다.
-  * 코드에 대한 자유로운 비판을 가능하게 한다.
-  * 최선을 다하게 만든다.
+
+- 개발자들이 코드는 개발자의 것이 아닌 모두의 것이라는 인식을 주게 된다.
+- 코드에 대한 자유로운 비판을 가능하게 한다.
+- 최선을 다하게 만든다.
 
 5. Knowledge Sharing
 
-
 ## Code Review Best Pratices
+
 Code review 의 도입은 항상 쉽지 않지만 Google 에서는 최대한 간결하고 긴밀하게 그리고 scale-up 할수 있도록 노력하고 있다.
 
 1. Be Polite and Professional
-  * trust and repect
-  * 인간적으로, 상식적으로...
-  * 겸손과 배려
-  * 상처 받지 않게...
+
+- trust and repect
+- 인간적으로, 상식적으로...
+- 겸손과 배려
+- 상처 받지 않게...
 
 2. Write Small Changes
-  * Google's small: less than 200 lines
-  * changes in a single file: 빠른 리뷰 가능
+
+- Google's small: less than 200 lines
+- changes in a single file: 빠른 리뷰 가능
 
 3. Write Good Change Descriptions
-  * the worst descriptions: Bug fix, new feature, code update
+
+- the worst descriptions: Bug fix, new feature, code update
 
 4. Keep Reviewers to a Minimum
-  * 한명이면 충분하다.
-  * 많아질수록 참여가 줄어들 수 있다.
+
+- 한명이면 충분하다.
+- 많아질수록 참여가 줄어들 수 있다.
 
 5. Automate Where Possible
-  * tool 을 사용하다. 뒤에 나온다.
 
+- tool 을 사용하다. 뒤에 나온다.
 
 ## Types of Code Reviews
+
 code review 의 수준은 다 다를 수 있다. 각기 맞는 수준, 포인트의 code review 가 필요하다.
 
 1. Greenfield Code (새로 짠) Reviews
-  * generally and simply solve a real problem
-  * 구글에서는 design 에서 많은 노력을 기울이기 때문에 design 측면에서의 code review 는 적절하지 않다.
+
+- generally and simply solve a real problem
+- 구글에서는 design 에서 많은 노력을 기울이기 때문에 design 측면에서의 code review 는 적절하지 않다.
 
 2. Behavrioral Changes, Improvements, and Optimizations
-  * 꼭 필요한가?
-  * CI tool 을 이용하여 codebase 에 영향을 미치지 않는지 체크한다.
+
+- 꼭 필요한가?
+- CI tool 을 이용하여 codebase 에 영향을 미치지 않는지 체크한다.
 
 3. Bug Fixes and Rollbacks
 
 4. Refactorings and Large-Scale Changes
-  * Large-Scale Changes: 코드를 자동으로 refactoring 해준다. chapter 22에서 다룰 예정
+
+- Large-Scale Changes: 코드를 자동으로 refactoring 해준다. chapter 22에서 다룰 예정
 
 ## Conclusion
-* 코드리뷰의 중요성, 이점
-* 민첩한 코드리뷰
-* Tools
+
+- 코드리뷰의 중요성, 이점
+- 민첩한 코드리뷰
+- Tools
