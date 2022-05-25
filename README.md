@@ -19,7 +19,7 @@
 3. [Knowledge Sharing](chapter/03_what_is_software_engineering.md)
 4. [Engineering for Equity](chapter/04_engineering_for_equity.md)
 5. [How to Lead a Team](chapter/05_how_to_lead_a_team.md)
-6. Leading at Scale
+6. [Leading at Scale](chapter/06_leading_at_scale.md)
 7. [Measuring Engineering Productivity](chapter/07_measuring_engineering_productivity.md)
 
 ### Processes
@@ -75,13 +75,13 @@
 
 ### Assignment
 
-| 담당자 | 1st   | 2nd    | 3rd | 4th | 5th |
-| ------ | ----- | ------ | --- | --- | --- |
-| KKP    | 5 - O | 9 - O  | 11  | 20  | 23  |
-| CJY    | 2 - O | 8      | 12  | 17  | 21  |
-| NHB    | 4 - O | 6      | 13  | 19  | 24  |
-| PYJ    | 1 - O | 10 - O | 15  | 16  | 25  |
-| KMS    | 3 - O | 7 - O  | 14  | 18  | 22  |
+| 담당자 | 1st   | 2nd    | 3rd    | 4th | 5th |
+| ------ | ----- | ------ | ------ | --- | --- |
+| KKP    | 5 - O | 9 - O  | 11 - O | 20  | 23  |
+| CJY    | 2 - O | 8      | 12     | 17  | 21  |
+| NHB    | 4 - O | 6      | 13     | 19  | 24  |
+| PYJ    | 1 - O | 10 - O | 15     | 16  | 25  |
+| KMS    | 3 - O | 7 - O  | 14     | 18  | 22  |
 
 ## Reference
 
