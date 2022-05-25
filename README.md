@@ -27,7 +27,7 @@
 8. Style Guides and Rules
 9. [Code Review](chapter/09_code_review.md)
 10. [Documentation](chapter/10_documentation.md)
-11. Testing Overview
+11. [Testing Overview](chapter/11_testing_overview.md)
 12. Unit Testing
 13. Test Doubles
 14. Larger Testing
