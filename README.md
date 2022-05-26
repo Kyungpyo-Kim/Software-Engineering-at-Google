@@ -29,7 +29,7 @@
 10. [Documentation](chapter/10_documentation.md)
 11. [Testing Overview](chapter/11_testing_overview.md)
 12. Unit Testing
-13. Test Doubles
+13. [Test Doubles](chapter/13_test_doubles.md)
 14. Larger Testing
 15. Deprecation
 
@@ -79,7 +79,7 @@
 | ------ | ----- | ------ | ------ | --- | --- |
 | KKP    | 5 - O | 9 - O  | 11 - O | 20  | 23  |
 | CJY    | 2 - O | 8      | 12     | 17  | 21  |
-| NHB    | 4 - O | 6      | 13     | 19  | 24  |
+| NHB    | 4 - O | 6 - 0  | 13 - 0 | 19  | 24  |
 | PYJ    | 1 - O | 10 - O | 15     | 16  | 25  |
 | KMS    | 3 - O | 7 - O  | 14     | 18  | 22  |
 
