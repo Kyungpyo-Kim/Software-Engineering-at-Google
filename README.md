@@ -31,7 +31,7 @@
 12. Unit Testing
 13. Test Doubles
 14. Larger Testing
-15. Deprecation
+15. [Deprecation](chapter/15_deprecation.md)
 
 ### Tools
 
@@ -80,7 +80,7 @@
 | KKP    | 5 - O | 9 - O  | 11 - O | 20  | 23  |
 | CJY    | 2 - O | 8      | 12     | 17  | 21  |
 | NHB    | 4 - O | 6      | 13     | 19  | 24  |
-| PYJ    | 1 - O | 10 - O | 15     | 16  | 25  |
+| PYJ    | 1 - O | 10 - O | 15 - O | 16  | 25  |
 | KMS    | 3 - O | 7 - O  | 14     | 18  | 22  |
 
 ## Reference
