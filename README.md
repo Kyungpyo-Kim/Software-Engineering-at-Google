@@ -86,3 +86,4 @@
 ## Reference
 
 - [Pull Request 방법](https://serpiko.tistory.com/853)
+- [Fork 를 원본으로 업데이트 하는 방법](https://json.postype.com/post/210431)
