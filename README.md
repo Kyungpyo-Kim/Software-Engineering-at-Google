@@ -30,7 +30,7 @@
 11. [Testing Overview](chapter/11_testing_overview.md)
 12. Unit Testing
 13. [Test Doubles](chapter/13_test_doubles.md)
-14. Larger Testing
+14. [Larger Testing](chapter/14_larger%20testing.md)
 15. [Deprecation](chapter/15_deprecation.md)
 
 ### Tools
@@ -39,7 +39,7 @@
 17. Code Search
 18. Build Systems and Build Philosophy
 19. Critique: Google’s Code Review Tool.
-20. Static Analysis
+20. [Static Analysis](chapter/20_static_analysis.md)
 21. Dependency Management
 22. Large-Scale Changes.
 23. Continuous Integration.
@@ -75,13 +75,13 @@
 
 ### Assignment
 
-| 담당자 | 1st   | 2nd    | 3rd    | 4th | 5th |
-| ------ | ----- | ------ | ------ | --- | --- |
-| KKP    | 5 - O | 9 - O  | 11 - O | 20  | 23  |
-| CJY    | 2 - O | 8      | 12     | 17  | 21  |
-| NHB    | 4 - O | 6  - O | 13 - O | 19  | 24  |
-| PYJ    | 1 - O | 10 - O | 15 - O | 16  | 25  |
-| KMS    | 3 - O | 7 - O  | 14     | 18  | 22  |
+| 담당자 | 1st   | 2nd    | 3rd    | 4th    | 5th |
+| ------ | ----- | ------ | ------ | ------ | --- |
+| KKP    | 5 - O | 9 - O  | 11 - O | 20 - O | 23  |
+| CJY    | 2 - O | 8      | 12     | 17     | 21  |
+| NHB    | 4 - O | 6 - O  | 13 - O | 19     | 24  |
+| PYJ    | 1 - O | 10 - O | 15 - O | 16     | 25  |
+| KMS    | 3 - O | 7 - O  | 14     | 18     | 22  |
 
 ## Reference
 
