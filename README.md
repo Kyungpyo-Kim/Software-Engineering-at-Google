@@ -24,11 +24,11 @@
 
 ### Processes
 
-8. Style Guides and Rules
+8. [Style Guides and Rules](chapter/08_style_guide_and_rule.md)
 9. [Code Review](chapter/09_code_review.md)
 10. [Documentation](chapter/10_documentation.md)
 11. [Testing Overview](chapter/11_testing_overview.md)
-12. Unit Testing
+12. [Unit Testing](chapter/12_Unit_testing.md)
 13. [Test Doubles](chapter/13_test_doubles.md)
 14. [Larger Testing](chapter/14_larger%20testing.md)
 15. [Deprecation](chapter/15_deprecation.md)
@@ -36,7 +36,7 @@
 ### Tools
 
 16. Version Control and Branch Management.
-17. Code Search
+17. [Code Search](chapter/17_Code%20Search.md)
 18. Build Systems and Build Philosophy
 19. Critique: Google’s Code Review Tool.
 20. [Static Analysis](chapter/20_static_analysis.md)
@@ -78,7 +78,7 @@
 | 담당자 | 1st   | 2nd    | 3rd    | 4th    | 5th |
 | ------ | ----- | ------ | ------ | ------ | --- |
 | KKP    | 5 - O | 9 - O  | 11 - O | 20 - O | 23  |
-| CJY    | 2 - O | 8      | 12     | 17     | 21  |
+| CJY    | 2 - O | 8 - O  | 12 - O | 17 - O | 21  |
 | NHB    | 4 - O | 6 - O  | 13 - O | 19     | 24  |
 | PYJ    | 1 - O | 10 - O | 15 - O | 16     | 25  |
 | KMS    | 3 - O | 7 - O  | 14     | 18     | 22  |
