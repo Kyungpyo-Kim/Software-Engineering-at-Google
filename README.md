@@ -37,7 +37,7 @@
 
 16. Version Control and Branch Management.
 17. [Code Search](chapter/17_Code%20Search.md)
-18. Build Systems and Build Philosophy
+18. [Build Systems and Build Philosophy](chapter/18_build_systems_and_build_philosophy.md)
 19. [Critique: Google’s Code Review Tool](chapter/19_critique_google_s_code_review_tool.md)
 20. [Static Analysis](chapter/20_static_analysis.md)
 21. Dependency Management
