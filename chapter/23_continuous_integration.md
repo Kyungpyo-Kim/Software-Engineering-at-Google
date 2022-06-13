@@ -1,6 +1,6 @@
 # Continuous Integration (CI)
 
-![ci/cd](https://cdn-icons.flaticon.com/png/512/1149/premium/1149084.png?token=exp=1655042366~hmac=4026df04742b042b969cf570440cfc9b)
+![ci/cd](https://www.servicenow.kr/content/dam/now-www/en-us/images/company-library/what-is-pages/what-is-cicd.jpg.thumb.320.320.png)
 
 - CI: 주로 automated build and release processes 를 의미한다.
 - Goal of CI: 문제가 있는 변화를 **일찍**, **자동**으로 찾아내는 것
