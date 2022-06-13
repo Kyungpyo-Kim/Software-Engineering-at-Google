@@ -42,7 +42,7 @@
 20. [Static Analysis](chapter/20_static_analysis.md)
 21. Dependency Management
 22. Large-Scale Changes.
-23. Continuous Integration.
+23. [Continuous Integration.](chapter/23_continuous_integration.md)
 24. Continuous Delivery
 25. [Compute as a Service](chapter/25_compute_as_a_service.md)
 
