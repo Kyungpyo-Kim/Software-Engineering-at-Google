@@ -40,7 +40,7 @@
 18. [Build Systems and Build Philosophy](chapter/18_build_systems_and_build_philosophy.md)
 19. [Critique: Google’s Code Review Tool](chapter/19_critique_google_s_code_review_tool.md)
 20. [Static Analysis](chapter/20_static_analysis.md)
-21. Dependency Management
+21. [Dependency Management](chapter/21_dependency_management.md)
 22. Large-Scale Changes.
 23. Continuous Integration.
 24. Continuous Delivery
@@ -78,7 +78,7 @@
 | 담당자 | 1st   | 2nd    | 3rd    | 4th    | 5th |
 | ------ | ----- | ------ | ------ | ------ | --- |
 | KKP    | 5 - O | 9 - O  | 11 - O | 20 - O | 23  |
-| CJY    | 2 - O | 8 - O  | 12 - O | 17 - O | 21  |
+| CJY    | 2 - O | 8 - O  | 12 - O | 17 - O | 21 - O |
 | NHB    | 4 - O | 6 - O  | 13 - O | 19 - O | 24  |
 | PYJ    | 1 - O | 10 - O | 15 - O | 16     | 25  |
 | KMS    | 3 - O | 7 - O  | 14 - O | 18 - O | 22  |
