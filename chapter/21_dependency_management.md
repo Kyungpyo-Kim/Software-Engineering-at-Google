@@ -243,5 +243,3 @@ Sementic Version을 사용하는 경우 다음과 같은 제한 사항들이 있
 
 </br>
 
-## TL;DRs
-
