@@ -213,9 +213,14 @@ Sementic Version을 사용하는 경우 다음과 같은 제한 사항들이 있
 
 </br>
 
-## Dependency Management with Infinite Resources
-
 ### Exporting Dependencies
+
++ Dependency를 개발하기 위한 계획(및 명령) 없이는 공개하지 마라.
+
++ 조직의 평판이 나빠질 수 있는 코드는 공개하지 마라.
+
++ 외부에서 API를 사용하는 사용자들 때문에 예상치 못한 개발 제한이 있을 수 있음을 고려해라.
+
 
 </br>
 
@@ -225,6 +230,13 @@ Sementic Version을 사용하는 경우 다음과 같은 제한 사항들이 있
 
 ## Conclusion
 
+결론적으로 독자는 Depenedency Management 문제는 굉장히 어렵고,  
+구글 또한 아직까지 해결하고 있는 내용이라고 합니다.
+
+또한 현재는 Semver가 Dependency 관리하는 주요 방법이지만, Semver가 갖고 있는 문제인 개발 기간이 오래될수록 버전 관리가 어렵다는 한계 때문에 나중에는 Live at Head 방식으로 Dependency Management 방식이 변화할 수 있을 것 같다는 의견을 주면서 글을 마쳤습니다.
+
+<!-- > 우리 회사의 경우 구글에서 사용하고 있는 Dependency  -->
+
 </br>
 
 ---
@@ -232,3 +244,4 @@ Sementic Version을 사용하는 경우 다음과 같은 제한 사항들이 있
 </br>
 
 ## TL;DRs
+
