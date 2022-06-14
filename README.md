@@ -43,7 +43,7 @@
 21. Dependency Management
 22. Large-Scale Changes.
 23. [Continuous Integration.](chapter/23_continuous_integration.md)
-24. Continuous Delivery
+24. [Continuous Delivery](chapter/24_continous_delivery.md)
 25. [Compute as a Service](chapter/25_compute_as_a_service.md)
 
 ### Conclusion
@@ -79,8 +79,8 @@
 | ------ | ----- | ------ | ------ | ------ | ------ |
 | KKP    | 5 - O | 9 - O  | 11 - O | 20 - O | 23 - O |
 | CJY    | 2 - O | 8 - O  | 12 - O | 17 - O | 21     |
-| NHB    | 4 - O | 6 - O  | 13 - O | 19 - O | 24     |
-| PYJ    | 1 - O | 10 - O | 15 - O | 16     | 25 -O  |
+| NHB    | 4 - O | 6 - O  | 13 - O | 19 - O | 24 - O |
+| PYJ    | 1 - O | 10 - O | 15 - O | 16     | 25 - O |
 | KMS    | 3 - O | 7 - O  | 14 - O | 18 - O | 22     |
 
 ## Reference
