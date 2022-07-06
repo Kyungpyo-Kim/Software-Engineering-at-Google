@@ -35,7 +35,7 @@
 
 ### Tools
 
-16. Version Control and Branch Management.
+16. [Version Control and Branch Management.](chapter/16_Version_Control_and_Branch_Management.md)
 17. [Code Search](chapter/17_Code%20Search.md)
 18. [Build Systems and Build Philosophy](chapter/18_build_systems_and_build_philosophy.md)
 19. [Critique: Google’s Code Review Tool](chapter/19_critique_google_s_code_review_tool.md)
@@ -80,7 +80,7 @@
 | KKP    | 5 - O | 9 - O  | 11 - O | 20 - O | 23 - O |
 | CJY    | 2 - O | 8 - O  | 12 - O | 17 - O | 21 - O |
 | NHB    | 4 - O | 6 - O  | 13 - O | 19 - O | 24 - O |
-| PYJ    | 1 - O | 10 - O | 15 - O | 16     | 25 - O |
+| PYJ    | 1 - O | 10 - O | 15 - O | 16 - O | 25 - O |
 | KMS    | 3 - O | 7 - O  | 14 - O | 18 - O | 22 - O |
 
 ## Reference
